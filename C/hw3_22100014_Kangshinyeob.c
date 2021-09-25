@@ -17,7 +17,7 @@ int main(void){
     // 3. 가중치 계산 : 중간(35%), 기말(45%), 과제(20%)
     score = score1*0.35 + score2*0.45 + score3*0.2;
 
-    // 5. 학점 출력
+    // 4. 학점 출력
     if(score<60){
         printf("최종 학점은 F입니다.");
     }else if(60<=score && score<70){
@@ -29,4 +29,6 @@ int main(void){
     }else{
         printf("최종 학점은 A입니다.");
     }
+
+    return 0;
 }
