@@ -1,4 +1,5 @@
 #include <stdio.h>
+// 1-2. 키와 몸무게로 비만도(BMI) 계산
 
 int main(void) {
   // 1. 신장(int, cm단위), 체중(int, kg단위), 비만도(float) 선언
