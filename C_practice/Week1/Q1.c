@@ -1,4 +1,5 @@
 #include <stdio.h>
+// 1-1. 태어난 년도로 나이 계산
 
 int main(void) {
   // 1. 태어난 년도 입력받기
