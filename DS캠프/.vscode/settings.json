@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "__locale": "cpp",
+        "cstring": "cpp",
+        "linked_list.h": "c",
+        "omok.h": "c",
+        "stdio.h": "c"
+    }
+}
